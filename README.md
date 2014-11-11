@@ -15,4 +15,9 @@ Please use the phrase "This work supported in part by the University of Washingt
 ### If you are an eScience affiliate...
   You may use these logos as you see fit
 
-If you create a powerpoint template, letterhead, or other branded and reusable material, please submit a pull request!
+### If you create a powerpoint template, letterhead, or other branded and reusable material... 
+  Please submit a pull request!
+
+### More questions?
+  Contact info@escience.washington.edu
+  
